@@ -70,7 +70,7 @@ def get_contours(img):
 
 desList = findDes(images)
 print(len(desList))
-img2 = cv2.imread("test/100euro.jpg") # Reading the image. Change the name according to your img name
+img2 = cv2.imread("test/20 euro.jpg") # Reading the image. Change the name according to your img name
 
 
 imgOriginal = img2.copy()
