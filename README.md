@@ -21,7 +21,6 @@ If you haven't installed OpenCV and Numpy on your machine then:
 
 ## Screenshots
 
-![App Screenshot](outputs/1.png)
 ![App Screenshot](outputs/2.png)
 ![App Screenshot](outputs/3.png)
 ![App Screenshot](outputs/4.png)
